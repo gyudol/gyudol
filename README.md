@@ -2,7 +2,7 @@
 ## Kim Gyuchan
 
 <!-- 관심사, 성격 등 태그-->
-###### #Backend #Web #Faithful #Passionate
+###### #Backend #Web #App #Faithful #Passionate
 
 <!-- 방문자수 확인 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyudol&count_bg=%2379C83D&title_bg=%234169E1&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -23,6 +23,12 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+## 👨🏻‍🎓 Education
+<table>
+  <tr> <th>기관</th> <th>기간</th> <th>비고</th> </tr>
+  <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.3 ~ 2024.2</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
+</table>
 
 ## 🍀License
 <table>
