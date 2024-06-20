@@ -24,7 +24,7 @@
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-## 👨🏻‍🎓 Education
+## 👨🏻‍🎓Education
 <table>
   <tr> <th>기관</th> <th>기간</th> <th>비고</th> </tr>
   <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.3 ~ 2024.2</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
