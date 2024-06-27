@@ -1,5 +1,5 @@
 <!-- 이름 -->
-## Kim Gyuchan
+## Gyuchan Kim
 
 <!-- 관심사, 성격 등 태그-->
 ###### #Backend #Web #App #Faithful #Passionate
@@ -23,6 +23,9 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+## ⚙Projects
+--
 
 ## 👨🏻‍🎓Education
 <table>
