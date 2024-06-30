@@ -10,7 +10,7 @@
 <!-- 백준 티어 확인 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)
 
-## 💪Skills
+## 🛠Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -27,7 +27,7 @@
 ## ⚙Projects
 --
 
-## 👨🏻‍🎓Education
+## 📖Education
 <table>
   <tr> <th>기관</th> <th>기간</th> <th>비고</th> </tr>
   <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.3 ~ 2024.2</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
