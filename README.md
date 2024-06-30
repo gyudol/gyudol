@@ -11,15 +11,14 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)
 
 ## 🛠Skills
-### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+<br/>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![php](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-
-### Tools
+<br/>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
@@ -33,7 +32,7 @@
   <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.3 ~ 2024.2</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
 </table>
 
-## 🍀Licenses
+## 💳Licenses
 <table>
   <tr> <td>정보처리기사</td> <td>한국산업인력공단</td> <td>2023.09.01</td> </tr>
   <tr> <td>빅데이터분석기사</td> <td>한국데이터산업진흥원</td> <td>2023.12.22</td> </tr>
