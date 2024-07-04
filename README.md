@@ -34,6 +34,7 @@
 
 ## 💳Licenses
 <table>
+  <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일자</th> </tr>
   <tr> <td>정보처리기사</td> <td>한국산업인력공단</td> <td>2023.09.01</td> </tr>
   <tr> <td>빅데이터분석기사</td> <td>한국데이터산업진흥원</td> <td>2023.12.22</td> </tr>
   <tr> <td>TOEIC® Speaking : <strong>IH</strong></td> <td>YBM 한국 TOEIC® 위원회</td> <td>2024.04.14</td> </tr>
