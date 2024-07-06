@@ -24,7 +24,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ## ⚙Projects
-- <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 국내 1·2금융사의 총 1300개 이상인 다양한 금융상품들을 비교해서 보여주고 추천해주는 App
+- <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 국내 1·2금융사의 총 1300개 이상 다양한 금융상품들을 비교해서 보여주고 추천해주는 App
 
 ## 📖Education
 <table>
