@@ -24,12 +24,12 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ## ⚙Projects
---
+- <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 국내 1·2금융 총 1300개 이상의 다양한 금융상품들을 비교해서 보여주고 추천해주는 App
 
 ## 📖Education
 <table>
   <tr> <th>기관</th> <th>기간</th> <th>비고</th> </tr>
-  <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.3 ~ 2024.2</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
+  <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.03 ~ 2024.02</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>  
 </table>
 
 ## 💳Licenses
