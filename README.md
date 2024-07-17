@@ -59,7 +59,7 @@
 ## 🌎 Foreign Language Skill
 <div align="center">
 <table>
-  <tr> <th>언어</th> <th>자격명</th> <th>등급/점수</th> <th>시행기관</th> <th>응시 일자</th> </tr>
+  <tr> <th>언어</th> <th>자격명</th> <th>등급/점수</th> <th>시행기관</th> <th>응시일자</th> </tr>
   <tr> <td>영어</td> <td>TOEIC® Speaking</td> <td align = "center">IH</td> <td>YBM 한국 TOEIC® 위원회</td> <td>2024.04.14</td> </tr>
 </table>
 </div>
