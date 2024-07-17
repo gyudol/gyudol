@@ -37,7 +37,7 @@
 ## 🎓Education
 <div align="center">
 <table>
-  <tr> <th>기관</th> <th>기간</th> <th>비고</th> </tr>
+  <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
   <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.03. ~ 2024.02.</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>
   <tr> <td>부산대학교사범대학부설고등학교 졸업</td> <td>2014.03. ~ 2017.02.</td> <td><div align="center">·</div></td> </tr>
 </table>
@@ -47,19 +47,19 @@
 <div align="center">
 <table>
   <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일자</th> </tr>
-  <tr> <td>정보처리기사</td> <td>한국산업인력공단</td> <td>2023.09.01</td> </tr>
-  <tr> <td>빅데이터분석기사</td> <td>한국데이터산업진흥원</td> <td>2023.12.22</td> </tr>
-  <tr> <td>SQLD (SQL 개발자)</td> <td>한국데이터산업진흥원</td> <td>2023.12.15</td> </tr>
-  <tr> <td>ADsP (데이터 분석 준전문가)</td> <td>한국데이터산업진흥원</td> <td>2023.11.17</td> </tr>
-  <tr> <td>컴퓨터활용능력 1급</td> <td>대한상공회의소</td> <td>2023.09.15</td> </tr>
-  <tr> <td>워드프로세서 1급</td> <td>대한상공회의소</td> <td>2011.09.23</td> </tr>
+  <tr> <td align="center">정보처리기사</td> <td align="center">한국산업인력공단</td> <td>2023.09.01</td> </tr>
+  <tr> <td align="center">빅데이터분석기사</td> <td align="center">한국데이터산업진흥원</td> <td>2023.12.22</td> </tr>
+  <tr> <td align="center">SQLD (SQL 개발자)</td> <td align="center">한국데이터산업진흥원</td> <td>2023.12.15</td> </tr>
+  <tr> <td align="center">ADsP (데이터 분석 준전문가)</td> <td align="center">한국데이터산업진흥원</td> <td>2023.11.17</td> </tr>
+  <tr> <td align="center">컴퓨터활용능력 1급</td> <td align="center">대한상공회의소</td> <td>2023.09.15</td> </tr>
+  <tr> <td align="center">워드프로세서 1급</td> <td align="center">대한상공회의소</td> <td>2011.09.23</td> </tr>
 </table>
 </div>
 
 ## 🌎 Foreign Language Skill
 <div align="center">
 <table>
-  <tr> <th>언어</th> <th>자격명</th> <th>등급/점수</th> <th>시행기관</th> <th>응시일자</th> </tr>
+  <tr> <th>언어</th> <th>자격종목</th> <th>등급/점수</th> <th>시행기관</th> <th>응시일자</th> </tr>
   <tr> <td>영어</td> <td>TOEIC® Speaking</td> <td align = "center">IH</td> <td>YBM 한국 TOEIC® 위원회</td> <td>2024.04.14</td> </tr>
 </table>
 </div>
