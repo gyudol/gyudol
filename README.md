@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<!-- 백준 티어 확인 -->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyudol&langs_count=10&layout=compact&theme=dark)
 </div>
 
 ## 🛠Skills
