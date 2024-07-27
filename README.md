@@ -1,10 +1,7 @@
-<!-- 이름 -->
 ## Gyuchan Kim
 
-<!-- 관심사, 성격 등 태그-->
 ###### #Backend #Web #App #Faithful #Passionate
 
-<!-- 방문자수 확인 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyudol&count_bg=%2379C83D&title_bg=%234169E1&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="center">
@@ -57,7 +54,7 @@
 </table>
 </div>
 
-## 🌎 Foreign Language Skill
+## 🌎Foreign Language Skill
 <div align="center">
 <table>
   <tr> <th>언어</th> <th>자격종목</th> <th>등급/점수</th> <th>시행기관</th> <th>응시일자</th> </tr>
@@ -65,7 +62,7 @@
 </table>
 </div>
 
-## :mailbox_with_mail: Contacts
+## :mailbox_with_mail:Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppp3408@gmail.com)](mailto:ppp3408@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sb3g@naver.com)](mailto:sb3g@naver.com)
 
