@@ -39,7 +39,7 @@
 <div align="center">
 <table>
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
-  <tr> <td>신세계 I&C 스파로스 아카데미 5기 입과</td> <td>2024.08. ~ </td> <td align="center">·</td> </tr>
+  <tr> <td>신세계 I&C <a href="https://www.spharosacademy.com" target="_blank">스파로스 아카데미</a> 5기 입과</td> <td>2024.08. ~ </td> <td align="center">·</td> </tr>
   <tr> <td>동아대학교 전기·전자·컴퓨터공학부 <a href="https://computer.donga.ac.kr/computer/Main.do" target="_blank">컴퓨터공학과</a> 졸업</td> <td>2017.03. ~ 2024.02.</td> <td>[평점 평균: <strong>4.02</strong> / 4.5] [전공 평점: <strong>4.17</strong> / 4.5]</td> </tr>
   <tr> <td>부산대학교사범대학부설고등학교 졸업</td> <td>2014.03. ~ 2017.02.</td> <td align="center">·</td> </tr>
 </table>
