@@ -10,12 +10,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyudol&langs_count=10&layout=compact&theme=vue-dark)
 </div>
 
-## 🛠Skills
+## 🛠 Skills
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) <!-- ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 <br/>
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
@@ -26,16 +25,22 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/amazonec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Amazon Route 53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white) <!-- ![Application Load Balancer](https://img.shields.io/badge/awselasticloadbalancing-8C4FFF.svg?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white) -->
+<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </div>
 
-## ⚙Projects
+## ⚙ Projects
 🎨 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 모든 금융상품을 종합적으로 비교 및 조회할 수 있는 Application <br><br>
   <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
 
-## 🎓Education
+## 🎓 Education
 <div align="center">
 <table>
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
@@ -45,7 +50,7 @@
 </table>
 </div>
 
-## 💳Licenses
+## 💳 Licenses
 <div align="center">
 <table>
   <tr> <th>자격종목</th> <th>시행기관</th> <th>합격일자</th> </tr>
@@ -58,7 +63,7 @@
 </table>
 </div>
 
-## 🌎Foreign Language Skill
+## 🌎 Foreign Language Skill
 <div align="center">
 <table>
   <tr> <th>언어</th> <th>자격종목</th> <th>등급/점수</th> <th>시행기관</th> <th>응시일자</th> </tr>
@@ -66,7 +71,7 @@
 </table>
 </div>
 
-## :mailbox_with_mail:Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppp3408@gmail.com)](mailto:ppp3408@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sb3g@naver.com)](mailto:sb3g@naver.com)
 
