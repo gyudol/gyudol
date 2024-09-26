@@ -40,7 +40,7 @@
 ## ⚙ Projects
 🎨 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 모든 금융상품을 종합적으로 비교 및 조회할 수 있는 Application <br>
   <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
-🛒 <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 S.I.VILLAGE 리빌딩 프로젝트 <br><br>
+🛒 <a href="https://github.com/8-jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 S.I.VILLAGE 리빌딩 프로젝트 <br><br>
 
 ## 🎓 Education
 <div align="center">
