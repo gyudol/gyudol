@@ -51,7 +51,7 @@
 </div>
 
 ## ⚙ Projects
-🐟 <a href="https://github.com/4-mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
+🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
 
 🎨 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 모든 금융상품을 종합적으로 비교 및 조회할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
 
@@ -68,7 +68,7 @@
 </div>
 
 ## 🏆 Awards
-🥈 신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/4-mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
+🥈 신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
 <br><br>
 
 ## 💳 Licenses
