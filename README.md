@@ -9,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyudol&langs_count=10&layout=compact&theme=tokyonight) <br/><br/>
-[![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-badge-generator/main/result/result.svg)](https://github.com/gyudol/programmers-badge-generator)
+[![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-badge-generator/main/output/result.svg)](https://github.com/gyudol/programmers-badge-generator)
 </div>
 
 ## 🛠 Skills
