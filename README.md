@@ -9,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ppp3408)](https://solved.ac/ppp3408)    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyudol&langs_count=10&layout=compact&theme=tokyonight) <br/><br/>
-[![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-badge-generator/main/output/result.svg)](https://github.com/gyudol/programmers-badge-generator)
+[![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-stats/main/output/result.svg)](https://github.com/gyudol/programmers-stats)
 </div>
 
 ## 🛠 Skills
@@ -54,9 +54,11 @@
 ## ⚙ Projects
 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
 
-🎨 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
 
-🛒 <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br><br>
+💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+
+🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🎓 Education
 <div align="center">
