@@ -41,6 +41,10 @@
 
 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
+## 🏆 Awards
+🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
+<br><br>
+
 ## 🎓 Education
 <div align="center">
 <table>
@@ -51,10 +55,6 @@
   <tr> <td>부산대학교사범대학부설고등학교 졸업</td> <td>2014.03.02 ~ 2017.02.14</td> <td align="center">·</td> </tr>
 </table>
 </div>
-
-## 🏆 Awards
-🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
-<br><br>
 
 ## 💳 Licenses
 <div align="center">
