@@ -12,7 +12,21 @@
 [![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-stats/main/output/result.svg)](https://github.com/gyudol/programmers-stats?tab=readme-ov-file#-programmers-stats)
 </div>
 
+## ⚙ Projects
+🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
+
+🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
+
+💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+
+🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
+
+## 🏆 Awards
+🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
+<br><br>
+
 ## 🛠 Skills
+<div align="center">
 <details>
 <summary>🔍 <strong>View Detail</strong></summary>
 <div align="center"> <br>
@@ -30,20 +44,7 @@
 | **<div align="center">⚙️ DevOps</div>** | <div align="center">![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)</div> |
 | **<div align="center">☁️ Cloud / Infra</div>** | <div align="center">![Amazon EC2](https://img.shields.io/badge/amazonec2-FF9900.svg?style=for-the-badge\&logo=amazonec2\&logoColor=white) ![Amazon Route 53](https://img.shields.io/badge/amazonroute53-8C4FFF.svg?style=for-the-badge\&logo=amazonroute53\&logoColor=white) ![Application Load Balancer](https://img.shields.io/badge/awselasticloadbalancing-8C4FFF.svg?style=for-the-badge\&logo=awselasticloadbalancing\&logoColor=white) ![Amazon S3](https://img.shields.io/badge/amazons3-569A31.svg?style=for-the-badge\&logo=amazons3\&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge\&logo=AWS%20Lambda\&logoColor=white) ![AWS CloudFront](https://img.shields.io/badge/AWS%20CloudFront-7747d4?style=for-the-badge) ![AWS MediaConvert](https://img.shields.io/badge/AWS%20MediaConvert-e2740e?style=for-the-badge)</div> |
 | **<div align="center">🤝 Collaboration</div>** | <div align="center">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) ![Notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge\&logo=notion\&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge\&logo=Slack\&logoColor=white)</div> |
-</div> </details> <br>
-
-## ⚙ Projects
-🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
-
-🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
-
-💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
-
-🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
-
-## 🏆 Awards
-🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
-<br><br>
+</div> </details> </div> <br>
 
 ## 🎓 Education
 <div align="center">
