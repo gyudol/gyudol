@@ -22,6 +22,8 @@
 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🏆 Awards
+🥉 삼성 청년 SW 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet">1학기 코딩 집중 과정</a> 종합 성적 **우수상** (2025.05.30) <br>
+
 🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
 <br><br>
 
