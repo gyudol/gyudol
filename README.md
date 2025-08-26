@@ -12,6 +12,14 @@
 [![Programmers Badge](https://raw.githubusercontent.com/gyudol/programmers-stats/main/output/result.svg)](https://github.com/gyudol/programmers-stats?tab=readme-ov-file#-programmers-stats)
 </div>
 
+## 💼 Career
+<div align="center">
+<table>
+  <tr> <th>기업명</th> <th>기간</th> <th>직무/직책</th> <th>비고</th> </tr>
+  <tr> <td><a href="https://www.kolonbenit.com/main/index.do" target="_blank">KOLON BENIT</a> </td> <td>2025.09.01 ~ </td> <td align="center">시스템 개발 (Java)</td> <td align="center">·</td> </tr>
+</table>
+</div>
+
 ## ⚙ Projects
 🔊 <a href="https://github.com/gyudol/voida" target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
