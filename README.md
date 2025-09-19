@@ -32,7 +32,7 @@
 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🏆 Awards
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** <br>
+🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
 
 🥉 삼성 청년 SW 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_content_cd=C0102&p_menu_cd=M0102&p_process=select-content-view">1학기 코딩 집중 과정</a> 종합 성적 **우수상** (2025.05.30) <br>
 
